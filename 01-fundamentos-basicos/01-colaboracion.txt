@@ -1,15 +1,17 @@
-Hola mundo 👋
+Hola mundo 👋  
 Este archivo es parte de un ejercicio colaborativo.
 
-Instrucciones:
+📌 Instrucciones:
 1. Crea una rama con tu nombre.
 2. Agrega tu línea al FINAL del archivo.
 3. No modifiques líneas existentes.
 4. Envía un Pull Request.
 
-Ejemplo:
+🧩 Formato:
+Hola soy <tu_nombre>
+
+📝 Ejemplo:
 Hola soy Nacho
 
-Ahora es tu turno 👇
-
-
+━━━━━━━━━━━━━━━━━━━━━━━
+⬇️ Agrega tu línea debajo ⬇️
