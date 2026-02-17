@@ -11,7 +11,7 @@ Este archivo es parte de un ejercicio colaborativo.
 Hola soy <tu_nombre>
 
 📝 Ejemplo:
-Hola soy Nacho
+Hola soy Pepe
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 ⬇️ Agrega tu línea debajo ⬇️
