@@ -1,3 +1,1 @@
-Proyecto de automatización en equipo
-
-Co-authored-by: GitHub Copilot <copilot@github.com>
+Prueba de confirmación técnica de coautoría
